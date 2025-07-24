@@ -114,5 +114,5 @@ jobs:
           # verbose: true
           overwrite: true
           default_release_name: modified-plugins
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
 
